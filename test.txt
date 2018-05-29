@@ -1,2 +1,3 @@
 hi~
 add text: add!!
+add text2: add add~~~
